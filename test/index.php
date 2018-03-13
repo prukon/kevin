@@ -11,6 +11,7 @@ function func2(){
 }
 ?>
 123
+1
 
 
 <h2>Print: 2</h2>
