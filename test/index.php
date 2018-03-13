@@ -10,8 +10,7 @@ function func2(){
   echo "3";
 }
 ?>
-123
-1
+
 
 
 <h2>Print: 2</h2>
