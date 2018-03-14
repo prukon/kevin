@@ -9,7 +9,7 @@
 </head>
 <body>
 <?php
-<echo>123</echo>;
+echo 123;
 ?>
 
 
