@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="prukon.bget.ru">
+  <component name="PublishConfigData" serverName="prukon.bget.ru" uploadOnCheckin="37f08f73-ddf3-48b2-ba2d-31621a358ec8">
     <serverData>
       <paths name="prukon.bget.ru">
         <serverdata>
@@ -10,5 +10,6 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myUploadOnCheckinName" value="prukon.bget.ru" />
   </component>
 </project>
