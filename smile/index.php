@@ -8,13 +8,20 @@
     <title>Document</title>
 </head>
 <body>
-<?php
-echo 123;
-?>
+<a id ="main" href="www.google.com">google</a>
+<a id ="main" href="www.yandex.ru">yandex</a>
 
-1122
-55
-66
+<br>
+<script>
+    url=document.links.main.href;
+    document.write('url-' + url);
 
+    var bal = 'Hello,World';
+    document.write( '<br>' + bal);
+
+    urlcount=document.links.length;
+    document.write('<br> url-' + urlcount);
+
+</script>
 </body>
 </html>
