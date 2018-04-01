@@ -5,23 +5,22 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
     <title>Document</title>
 </head>
 <body>
 <a id ="main" href="www.google.com">google</a>
 <a id ="main" href="www.yandex.ru">yandex</a>
-
 <br>
-<script>
-    url=document.links.main.href;
-    document.write('url-' + url);
+<h1 id="movie"></h1>
+<div id="myid"></div>
+<div class="myclass"></div>
+<div class="myclass"></div>
 
-    var bal = 'Hello,World';
-    document.write( '<br>' + bal);
+<div class="myclass"></div>
+<div class="myclass"></div>
 
-    urlcount=document.links.length;
-    document.write('<br> url-' + urlcount);
 
-</script>
+<script src="script.js"></script>
 </body>
 </html>
