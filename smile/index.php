@@ -15,10 +15,8 @@
 <h1 id="movie"></h1>
 <div id="myid"></div>
 <div class="myclass"></div>
-<div class="myclass"></div>
 
-<div class="myclass"></div>
-<div class="myclass"></div>
+
 
 
 <script src="script.js"></script>

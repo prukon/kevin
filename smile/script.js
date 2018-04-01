@@ -1,18 +1,12 @@
-//уроки
-var movie = "Залоговок h1";
-var one = "Hello, World";
-////Обращение к элементу через ID
-//document.getElementById("movie").innerHTML = movie;
-//
-////Обращение к элементу через ID (QUERY)
-//$("#myid").text("Обращение через id");
-//
-////Обращение к элементу через класс (QUERY)
-//$(".myclass").text("Обращение через класс");
-//
-////Затухание (QUERY)
-//$('#movie, #main').fadeOut('slow');
 
 
-document.getElementsByClassName("myclass")[0].innerHTML = one;
-console.log(document.getElementsByClassName("myclass"));
+fixNames("the", "DALLAS", "CowBoys","1FeffdD")
+function fixNames()
+{
+    var s = ""
+
+    for (j = 0 ; j < fixNames.arguments.length ; ++j)
+        s += fixNames.arguments[j].charAt(0).toUpperCase() +
+        fixNames.arguments[j].substr(1).toLowerCase() + " "
+        return document.write((s.substr(0, s.length-1)))
+}
