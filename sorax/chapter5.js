@@ -1,6 +1,3 @@
-/**
- * Created by prukon on 04.04.18.
- */
 console.log(5);             //десятичное
 console.log(0xfffcc);       //шестнадцатиричное
 console.log(0xbbbccc);      //шестнадцатиричное
