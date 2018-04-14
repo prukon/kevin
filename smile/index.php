@@ -19,6 +19,6 @@
 
 
 
-<script src="script.js"></script>
+<script src="/sorax/chapter9.js"></script>
 </body>
 </html>

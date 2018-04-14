@@ -25,7 +25,7 @@ console.log(Boolean(0));
 console.log(typeof (Boolean(0)));
 console.log("________________________");
 console.log(!!5);
-console.log(typeof !!5);
+console.log(typeof !!5);                //быстрое приобразование в булевый тип
 console.log(345 +"");                   //быстрое приобразование в строку
 console.log(typeof (356 + ""));
 console.log(+"123");                   //быстрое приобразование в число

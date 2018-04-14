@@ -1,6 +1,6 @@
 console.log(Boolean(5));
 
-//Все это передает false
+//Все это передает false в булевом типе
 console.log(Boolean(undefined));
 console.log(Boolean(null));
 console.log(Boolean(0));
