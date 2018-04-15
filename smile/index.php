@@ -18,6 +18,6 @@
 
 
 
-<script src="/sorax/chapter17.js"></script>
+<script src="/sorax/chapter18.js"></script>
 </body>
 </html>
