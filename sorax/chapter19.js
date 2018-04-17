@@ -69,3 +69,4 @@ Object.freeze(obj);
 console.log(Object.isFrozen(obj)); //провера Frozen
 console.log(Object.getOwnPropertyDescriptor(obj, "a")); //блокировка расширяемости объекта и установка configurable false
 
+console.log(123);
