@@ -63,6 +63,26 @@
     <h1>Orealy</h1>
     <li><a href="oreilly/chapter10/index.php">10 урок</a></li>
     <li><a href="oreilly/chapter11/convert.php">11 урок</a></li>
+
+    <h2>WebDeveloperBlog</h2>
+    <li><a href="/WebDeveloperBlog/oop1.php">ООП 1 (введение)</a></li>
+    <li><a href="/WebDeveloperBlog/oop2.php">ООП 2 (обасть видимость свойства)</a></li>
+    <li><a href="/WebDeveloperBlog/oop3.php">ООП 3 (методы класса. Функции)</a></li>
+    <li><a href="/WebDeveloperBlog/oop4.php">ООП 4 (конструкторы и диструкторы)</a></li>
+    <li><a href="/WebDeveloperBlog/oop5.php">ООП 5 (this и self)</a></li>
+    <li><a href="/WebDeveloperBlog/oop6.php">ООП 6 (Наследование. Конструкторы в наследовании. Свойство protected.)</a></li>
+    <li><a href="/WebDeveloperBlog/oop8.php">ООП 8 (Статические свойства и методы)</a></li>
+    <li><a href="/WebDeveloperBlog/oop9.php">ООП 9 (Константы класса.Постоянные свойства)</a></li>
+    <li><a href="/WebDeveloperBlog/oop10.php">ООП 10 (Абстрактные классы)</a></li>
+    <li><a href="/WebDeveloperBlog/oop11.php">ООП 11 (Интерфейсы в ООП)</a></li>
+
+
+
+
+
+
+
+
 </ul>
 </body>
 </html>
